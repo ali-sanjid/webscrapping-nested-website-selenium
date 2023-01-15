@@ -10,3 +10,5 @@ the program runs through multiple nested links from the medicine list at https:/
 
 
 I did get frustrated at some point as I thought I will never get this done but I am happy that I pushed through it and got it done. The feeling is as always very nice like a solving a mystery.
+
+I have also uploaded a csv file that contains the data of the medicines for reference.
