@@ -1,7 +1,7 @@
 # web scrapping from nested website- https://www.pbs.gov.au/browse/medicine-listing 
 
 ## General Information
-As part of my freelance project, I was tasked with webs craping comprehensive data from a government medicine website. The objective was to seamlessly integrate this data into their proprietary database, thereby enabling the generation of valuable business insights. This endeavor involved implementing efficient data retrieval techniques while adhering to ethical and legal considerations governing web scraping practices.
+As part of my freelance project, I was tasked with web scraping comprehensive data from a government medicine website. The objective was to seamlessly integrate this data into their proprietary database, thereby enabling the generation of valuable business insights. This endeavor involved implementing efficient data retrieval techniques while adhering to ethical and legal considerations governing web scraping practices.
 
 ## Technologies Used
 * Python and SQL: The programming language used for this project.
